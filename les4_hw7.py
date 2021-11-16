@@ -10,3 +10,4 @@ fact_num = 1
 for el in fact(end_num):
     print(f'{fact_num}! = {el}')
     fact_num +=1
+    
